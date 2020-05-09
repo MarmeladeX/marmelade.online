@@ -100,14 +100,17 @@ En revanche, le temps que vous et moi y consacrez n'a pas de prix, et sera utile
 
 ## Contacts
 
-<projet.marmelade@gmail.com>  
-+33.(0)6.95.90.55.79  
-
+<contact@marmelade.online>  
+<!--
 [Facebook](https://www.facebook.com/Marmelade-100577291640542)  
+-->
 
 Vincent Bonhomme  
 Lacamp  
 30440 Roquedur  
+
++33.(0)6.95.90.55.79  
+<bonhomme.vincent@gmail.com>
 
 ## Merci
  * D'être arrivé.e jusqu'ici
