@@ -33,7 +33,7 @@ Vous devriez obtenir ce genre d'images, ici un cerisier :
 ![example_cerisier](img/ex_scan.jpg)
 
 ### :postbox: Dépôt fichier
-* Le dépot du ou des fichiers se fait sur le [formulaire en ligne](https://forms.gle/88nU4t7EueY1fg348)
+* **Le dépot du ou des fichiers se fait sur le [formulaire en ligne](https://forms.gle/88nU4t7EueY1fg348)**
 * Non Google Drive n'est pas la panacée mais j'y travaille.
 
 ### :vulcan_salute: Dépôt dans le domaine public
