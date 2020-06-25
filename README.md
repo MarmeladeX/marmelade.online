@@ -111,7 +111,7 @@ Lacamp
 +33.(0)6.95.90.55.79  
 <bonhomme.vincent@gmail.com>
 
-## Merci
+## :clap: Merci
  * D'être arrivé.e jusqu'ici
  * Aux structures ci-dessous de bien avoir voulu diffuser ce programme :
  	* [Fruits Oubliés](http://fruitsoublies.org/) : réseau pour la diversité fruitière et alimentaire
