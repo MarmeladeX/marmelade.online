@@ -16,7 +16,7 @@ Vous pouvez participer si :
  
 
 ## :scissors: Protocole de prélèvement
- * [**Lien protocole**](protocole_feuilles_0520.md)
+ * [**Lien protocole**](protocole.html)
  * [**Lien formulaire**](https://forms.gle/88nU4t7EueY1fg348)
  
 ## :mag_right: Qu'est-ce qu'on cherche ?
