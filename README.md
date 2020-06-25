@@ -35,6 +35,8 @@ En sus de ma chaleureuse reconnaissance :
 * Vous serez remercié.e dans les productions scientifiques ;
 * J'en diffuserai les résultats sous forme conviviale.
 
+Je ne collecte aucune information d'aucune sorte (à quoi bon du reste ?), à part les photos et les données associées aux arbres !
+
 ## :books: Mais quel est donc le contexte scientifique ?
 
 Depuis la préhistoire, nous manipulons les plantes pour les plier à nos goûts et à nos climats. Mais les plantes ont aussi trouvé une main qui les chérit, les multiplie, les diversifie et qui explore, à tâtons, des potentialités développementales inconnues dans la "nature".
@@ -100,9 +102,6 @@ Le temps que vous et moi consacrez a ce projet n'a en revanche pas de prix, et s
 ## :incoming_envelope: Contacts
 
 <contact@marmelade.online>  
-<!--
-[Facebook](https://www.facebook.com/Marmelade-100577291640542)  
--->
 
 Vincent Bonhomme  
 Lacamp  
@@ -110,6 +109,8 @@ Lacamp
 
 +33.(0)6.95.90.55.79  
 <bonhomme.vincent@gmail.com>
+
+Il existe aussi une page [Facebook](https://www.facebook.com/Marmelade-100577291640542)  si ça vous botte !
 
 ## :clap: Merci
  * D'être arrivé.e jusqu'ici
