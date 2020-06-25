@@ -1,6 +1,6 @@
 <br/><br/>
 ![logo](img/header.png)
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 ![photo](img/5075826879_d728c4d44c_c.jpg)  
 <p style="text-align:right;">Photo d'<a href="https://www.flickr.com/photos/adulau/5075826879">Alexandre Dulaunoy (cc-by-sa)</a></p>
 
