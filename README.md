@@ -70,7 +70,7 @@ Vu que l'on a désormais des variables confortables, traduisant la forme de faç
 
 Les données que vous collectez serviront à entraîner les premiers modèles, et tester l'existence de patrons intéressants.
 
-Je constituerai moi-même un autre jeu de données sur des collections existantes dans des conditions aussi standardisées que possible. Il est vraisemblable que je ménerai les premières analyses sur ce jeu de données.
+Je constituerai moi-même un autre jeu de données sur des collections existantes dans des conditions aussi standardisées que possible. Je ménerai les premières analyses sur ce jeu de données et j'en livrerai ici même les premiers résultats.
 
 "Vos" photos seront elles analysées en fonction des données disponibles, et j'espère vous livrer les premiers résultats début 2021.
 
