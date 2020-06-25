@@ -15,11 +15,11 @@ Vous pouvez participer si :
  * 15 minutes devant vous.
  
 
-## Protocole de prélèvement
+## :scissors: Protocole de prélèvement
  * [**Lien protocole**](protocole_feuilles_0520.md)
  * [**Lien formulaire**](https://forms.gle/88nU4t7EueY1fg348)
  
-## Qu'est-ce qu'on cherche ?
+## :mag_right: Qu'est-ce qu'on cherche ?
 
 Ce projet est un ballon d'essai pour des recherches au long cours qui visent à :
 
@@ -28,14 +28,14 @@ Ce projet est un ballon d'essai pour des recherches au long cours qui visent à 
  - tester l'existence de liens entre la forme, le climat, les années, les pratiques, etc. et les creuser ;
  - aider à l'identification de variétés connues, nouvelles, oubliées, synonymes, etc. à partir de photographies.
  
-## Qu'est-ce qu'on gagne ?
+## :gift: Qu'est-ce qu'on gagne ?
 En sus de ma chaleureuse reconnaissance :
 
 * Vos photos seront placées dans le [domaine public](https://creativecommons.org/publicdomain/zero/1.0/deed.fr) et seront donc librement disponibles, notamment pour la communauté scientifique ;
 * Vous serez remercié.e dans les productions scientifiques ;
 * J'en diffuserai les résultats sous forme conviviale.
 
-## Mais quel est donc le contexte scientifique ?
+## :books: Mais quel est donc le contexte scientifique ?
 
 Depuis la préhistoire, nous manipulons les plantes pour les plier à nos goûts et à nos climats. Mais les plantes ont aussi trouvé une main qui les chérit, les multiplie, les diversifie et qui explore, à tâtons, des potentialités développementales inconnues dans la "nature".
 
@@ -49,7 +49,7 @@ Paradoxalement, les variétés actuelles ne sont que peu étudiées quantitative
 
 L'identification pure à l'échelle des _espèces_ et à partir de photographies marche fabuleusement bien, par exemple dans l'application mobile [Pl@ntNet](https://plantnet.org/). L'approche proposée ici est un peu plus contraignante car elle nécessite des données standardisées (des contours de feuilles, bien à plat). En revanche, elle permet en retour de disposer de descripteurs plus facilement exploitables.
 
-## Que deviennent mes photos ?
+## :package: Que deviennent mes photos ?
 
 Dans un premier temps, nous allons tester l'intérêt de l'approche morphométrique sur ces espèces,  pratiquée en routine au labo. 
 
@@ -76,7 +76,7 @@ Je constituerai moi-même un autre jeu de données sur des collections existante
 
 Quand les jeux de données seront plus conséquent, on pourra envisager l'apprentissage profond (ou _deep learning_) pour l'identification des variétés.
 
-## Qui porte ce projet rigolo ?
+## :man_farmer: Qui porte ce projet rigolo ?
 
 ![myself](img/myself.png)   
 [www.vincentbonhomme.fr]()
@@ -93,11 +93,11 @@ Je développe par ailleurs [MomX](http://momx.github.io), un écosystème libre 
 
 En 2020, Marmelade est développé sur mon temps libre.
 
-## Budget
+## :moneybag: Budget
 Le budget total actuel est de 3 €, pour l'achat du nom de domaine.
 Le temps que vous et moi consacrez a ce projet n'a en revanche pas de prix, et sera utile pour moi-même, et j'espère pour plein d'autres voire pour nous tou.te.s &#9996;.
 
-## Contacts
+## :incoming_envelope: Contacts
 
 <contact@marmelade.online>  
 <!--
