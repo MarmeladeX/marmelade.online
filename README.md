@@ -4,9 +4,9 @@
 ![photo](img/5075826879_d728c4d44c_c.jpg)  
 <p style="text-align:right;">Photo d'<a href="https://www.flickr.com/photos/adulau/5075826879">Alexandre Dulaunoy (cc-by-sa)</a></p>
 
-Même en photo, la diversité des formes saute aux yeux ! C'est l'idée de ce projet : quantifier la variabilité des organes (feuilles, fruits, etc.) des espèces fruitières, pour mieux les comprendre.
+Même en photo, la diversité des formes saute aux yeux ! C'est l'idée de ce projet : quantifier la variabilité des organes des espèces fruitières, pour mieux les comprendre.
 
-Ce projet est participatif car il compte sur **vous** pour collecter ses données brutes, des photos et des scans de fruits et de légumes. Avec votre participation, nous pouvons espérer rassembler des jeux de données en diversité, nombre et maillage géographique presque impossible à rassembler avec les moyens traditionnels de la recherche.
+Ce projet est participatif car il compte sur **vous** pour collecter ses données brutes, en commençant aujourd'hui par des scans de feuilles. Avec votre participation, nous pouvons espérer rassembler des jeux de données en diversité, nombre et maillage géographique presque impossible à rassembler avec les moyens traditionnels de la recherche.
 
 Vous pouvez participer si :
 
@@ -74,7 +74,7 @@ Je constituerai moi-même un autre jeu de données sur des collections existante
 
 "Vos" photos seront elles analysées en fonction des données disponibles, et j'espère vous livrer les premiers résultats début 2021.
 
-Quand les jeux de données seront plus conséquent, on pourra envisager du deep learning pour l'identification des variétés.
+Quand les jeux de données seront plus conséquent, on pourra envisager l'apprentissage profond (ou _deep learning_) pour l'identification des variétés.
 
 ## Qui porte ce projet rigolo ?
 
@@ -94,9 +94,8 @@ Je développe par ailleurs [MomX](http://momx.github.io), un écosystème libre 
 En 2020, Marmelade est développé sur mon temps libre.
 
 ## Budget
-Parce que je vous dois la transparence, ce projet est totalement autofinancé ; son budget total est de 3 €, pour l'achat du nom de domaine.
-
-En revanche, le temps que vous et moi y consacrez n'a pas de prix, et sera utile pour moi-même, et j'espère pour plein d'autres voire pour nous tou.te.s &#9996;.
+Le budget total actuel est de 3 €, pour l'achat du nom de domaine.
+Le temps que vous et moi consacrez a ce projet n'a en revanche pas de prix, et sera utile pour moi-même, et j'espère pour plein d'autres voire pour nous tou.te.s &#9996;.
 
 ## Contacts
 
