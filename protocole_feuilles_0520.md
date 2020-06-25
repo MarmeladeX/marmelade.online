@@ -10,7 +10,7 @@ L'axe "feuilles" en est le premier et son protocole de collecte est simple.
 * de 15 minutes environ par arbre ;
 * d'accepter de déposer vos données dans le domaine public.
 
-### :monocle: Choix de l'arbre et de la variété
+### :deciduous_tree: Choix de l'arbre et de la variété
 * **Les pruniers et pommiers** sont particulièrement recherchés pour ce premier essai mais vous pouvez participer avec les espèces qui vous plaisent
 * On priviligiera les arbres **produisant des fruits**, plantés depuis au moins une année pleine. Si cela vous fait peine de sacrifier 20 feuilles pour la science, c'est que votre arbre est trop jeune.
 * Si vous avez plusieurs espèces et variétés sous la main, mais que vous n'avez pas le temps ou l'envie de toutes les faire, privilégiez les variétés qui vous paraissent les plus rares.
