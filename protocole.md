@@ -20,17 +20,20 @@ L'axe "feuilles" en est le premier et son protocole de collecte est simple.
 * 1 dépôt sur le [formulaire en ligne](https://forms.gle/88nU4t7EueY1fg348) = 1 arbre, éventuellement en plusieurs scans
 * **20 feuilles par arbre minimum. Idéalement 30**. Pas de maximum.
 * Feuilles bien développées, prélevées au milieu du rameau (ni trop vers le tronc, ni trop vers l'apex) ;
-* Feuilles en bon état, de taille et de forme "normale", sans marque d'herbivorie ou autres dommages
-* Changez de rameau à chaque feuille si possible et prélevez tout autour de l'arbre.
+* Si possible, changez de rameau à chaque feuille et prélevez tout autour de l'arbre.
+* Feuilles en bon état, de taille et de forme "normale", si possible sans marque d'herbivorie ou autres dommages, notamment sur la marge de la feuille, c'est à dire son pourtour.
+* Si vous ne pouvez pas scanner juste après la récolte, empiler les feuilles et les placer dans une enveloppe kraft au frigo : vous avez environ 48 heures.
 
 ### :printer: Numérisation
-* Scanner couleur A4, résolution 300 dpi ou plus
-* Les feuilles ne doivent pas se recouvrir
-* Les fichiers bruts non modifiés sont déposés sur le formulaire : pas de recadrage ni de retouche, les dimensions du scans serviront à mettre à l'échelle.
+* Scanner couleur A4, résolution 300 dpi minimum, 600 ou plus si possible ;
+* On scanne la face du dessus et donc on pose les feuilles "à l'envers" ;
+* Les feuilles ne doivent pas se recouvrir ;
+* Placez une pièce de 5 centimes d'euros dans le bord inférieur droit pour l'échelle ;
+* Les fichiers bruts non modifiés sont déposés sur le formulaire : pas de recadrage ni de retouche.
 
-Vous devriez obtenir ce genre d'images, ici un cerisier :
+Vous devriez obtenir ce genre d'images, ici un pommier "Reinette d'Alboulne" :
 
-![example_cerisier](img/ex_scan.jpg)
+![example_pommier](img/maldom_1.jpg)
 
 ### :postbox: Dépôt fichier
 * **Le dépot du ou des fichiers se fait sur le [formulaire en ligne](https://forms.gle/88nU4t7EueY1fg348)**
