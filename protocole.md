@@ -1,17 +1,16 @@
 # Protocole feuilles fruitiers
-_Version 5.20_
 
 Merci de votre intérêt pour le projet Marmelade !
 L'axe "feuilles" en est le premier et son protocole de collecte est simple.
 
 ### :man_cook: Ingrédients  
-* au moins un arbre dont vous connaissez la variété, sur lequel prélever au moins 20 feuilles ;
+* au moins un arbre dont vous connaissez la variété, sur lequel prélever au moins 20 feuilles, idéalement 30 ;
 * un scanner couleur, même premier prix, même poussiéreux ;
 * de 15 minutes environ par arbre ;
 * d'accepter de déposer vos données dans le domaine public.
 
 ### :deciduous_tree: Choix de l'arbre et de la variété
-* **Les pruniers et pommiers** sont particulièrement recherchés pour ce premier essai mais vous pouvez participer avec les espèces qui vous plaisent
+* **Les pruniers et pommiers** sont particulièrement recherchés pour ce premier essai mais vous pouvez participer avec les espèces qui vous plaisent ;
 * On priviligiera les arbres **produisant des fruits**, plantés depuis au moins une année pleine. Si cela vous fait peine de sacrifier 20 feuilles pour la science, c'est que votre arbre est trop jeune.
 * Si vous avez plusieurs espèces et variétés sous la main, mais que vous n'avez pas le temps ou l'envie de toutes les faire, privilégiez les variétés qui vous paraissent les plus rares.
 * Si vous avez plusieurs arbres de la même variété, ces répétitions statistiques seraient extrêmement précieuses ! Chaque individu arbre doit faire l'objet de dépôts séparés sur le formulaire.
@@ -20,14 +19,16 @@ L'axe "feuilles" en est le premier et son protocole de collecte est simple.
 * 1 dépôt sur le [formulaire en ligne](https://forms.gle/88nU4t7EueY1fg348) = 1 arbre, éventuellement en plusieurs scans
 * **20 feuilles par arbre minimum. Idéalement 30**. Pas de maximum.
 * Feuilles bien développées, prélevées au milieu du rameau (ni trop vers le tronc, ni trop vers l'apex) ;
+* Gardez le pétiole, le petit bout de tige entre la feuille et le rameau ;
 * Si possible, changez de rameau à chaque feuille et prélevez tout autour de l'arbre.
 * Feuilles en bon état, de taille et de forme "normale", si possible sans marque d'herbivorie ou autres dommages, notamment sur la marge de la feuille, c'est à dire son pourtour.
-* Si vous ne pouvez pas scanner juste après la récolte, empiler les feuilles et les placer dans une enveloppe kraft au frigo : vous avez environ 48 heures.
+* Si vous ne pouvez pas scanner juste après la récolte, empiler les feuilles et les placer dans une enveloppe kraft au frigo. Les feuilles restent impeccables plusieurs jours.
 
 ### :printer: Numérisation
 * Scanner couleur A4, résolution 300 dpi minimum, 600 ou plus si possible ;
 * On scanne la face du dessus et donc on pose les feuilles "à l'envers" ;
 * Les feuilles ne doivent pas se recouvrir ;
+* Aplatissez les au mieux avec vos doigts et la partie mobile du scanner ;
 * Placez une pièce de 5 centimes d'euros dans le bord inférieur droit pour l'échelle ;
 * Les fichiers bruts non modifiés sont déposés sur le formulaire : pas de recadrage ni de retouche.
 
