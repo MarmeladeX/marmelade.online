@@ -113,8 +113,8 @@ Lacamp
 Il existe aussi une page [Facebook](https://www.facebook.com/Marmelade-100577291640542)  si ça vous botte !
 
 ## :clap: Merci
- * D'être arrivé.e jusqu'ici
- * Aux structures ci-dessous de bien avoir voulu diffuser ce programme :  
- 	* [La Société Française d'Écologie et d'Évolution](https://www.sfecologie.org) 
- 	* [Fruits Oubliés](http://fruitsoublies.org/), réseau pour la diversité fruitière et alimentaire   
- 	* [Terres arboricoles cévenoles](https://www.terresarboricolescevenoles.com/) et Alexandre Racanière pour avoir mis à disposition le verger de collection de Las Font.
+ D'être arrivé.e jusqu'ici et aux structures ci-dessous de bien avoir voulu diffuser ce programme :  
+ 
+  * [La Société Française d'Écologie et d'Évolution](https://www.sfecologie.org) 
+  * [Fruits Oubliés](http://fruitsoublies.org/), réseau pour la diversité fruitière et alimentaire
+  * [Terres arboricoles cévenoles](https://www.terresarboricolescevenoles.com/) et Alexandre Racanière pour avoir mis à disposition le verger de collection de Las Font.
